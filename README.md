@@ -2,6 +2,8 @@
 
 A simple command-line interface (CLI) application to track and manage your tasks. This project helps you keep track of what you need to do, what you are currently working on, and what you have already completed. Built with Go, following clean architecture principles with separation of concerns across models, repository, usecase, and handler layers.
 
+**Project Reference:** https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - ✅ Add new tasks
